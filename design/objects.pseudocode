@@ -1,0 +1,29 @@
+
+
+# elemtente
+
+game_Field()    
+    Runde
+    cardsOnField
+    showCards()
+    putCardOnField()
+    displayField()
+
+Deck()
+    erstellen
+    mischen
+    
+Karte()
+    bild
+    value
+
+Spieler()
+    AnzahlAnKarten
+    Karten [] = anzahlAnKarten * Karte()
+    def zeigeHandKarten
+    def zieheKarte
+    def werfeKarteWeg
+    def legeKarte
+    
+    
+
